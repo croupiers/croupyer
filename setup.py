@@ -7,7 +7,7 @@ setup(
     author_email='serabe@gmail.com',
     packages=['croupyer', 'croupyer.test'],
     scripts=[],
-    url='',
+    url='https://pypi.python.org/pypi/Croupyer',
     license='LICENSE.txt',
     description='Generators generating random stuff.',
     long_description=open('README.md').read(),
