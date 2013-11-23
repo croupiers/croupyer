@@ -1,0 +1,8 @@
+build
+_build
+dis
+doc/build
+doc/cdoc/build
+*.egg-info
+./.shelf
+MANIFEST

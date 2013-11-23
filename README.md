@@ -1,0 +1,3 @@
+# Croupyer
+
+Croupier for Pythonistas.
