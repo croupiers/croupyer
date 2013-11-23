@@ -6,3 +6,4 @@ doc/cdoc/build
 *.egg-info
 ./.shelf
 MANIFEST
+dist
